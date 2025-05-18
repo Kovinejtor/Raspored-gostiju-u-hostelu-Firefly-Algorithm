@@ -50,10 +50,7 @@ Sljedeća pravila opisuju standardni FA:
 6. Ponavljanje koraka pomicanja i ažuriranja svjetlosne jačine dok se ne zadovolji kriterij zaustavljanja.
 7. Izdvajanje najboljeg pronađenog rješenja nakon određenog broja iteracija.
 
-<figure style="text-align: center;">
-  <img src="/home/Kova/.var/app/io.typora.Typora/config/Typora/typora-user-images/image-20250503142114071.png" alt="Alt tekst slike" style="display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Firefly algoritam</figcaption>
-</figure>
+![algoritam](alg.png)
 
 ## 2. Ulazni podaci (`relations.csv`)
 
