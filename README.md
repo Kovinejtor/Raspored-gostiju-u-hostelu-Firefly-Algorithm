@@ -241,7 +241,7 @@ Raspored po sobama (Gost1, Gost2):
   Soba 9: Gosti (8, 11) - Odnos: 1.0 (Prijatelji)
   Soba 10: Gosti (3, 10) - Odnos: 1.0 (Prijatelji)
 
-![graf](/home/Kova/Desktop/graf.png)
+![graf](graf.png)
 
 ## 5. Dependencies
 
